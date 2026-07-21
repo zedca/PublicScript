@@ -9,7 +9,9 @@
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // @grant        GM_registerMenuCommand
-// @license      MIT
+// @namespace    https://github.com/zedca/PublicScript/
+// @downloadURL  https://github.com/zedca/PublicScript/raw/main/web-image-manager.user.js
+// @updateURL    https://github.com/zedca/PublicScript/raw/main/web-image-manager.user.js
 // ==/UserScript==
 
 (function () {

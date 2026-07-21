@@ -1,7 +1,6 @@
 // ==UserScript==
-// @name         修改标题和 favicon
-// @namespace    https://example.com/
-// @version      1.1.0
+// @name         Replace Title Icon
+// @version      1.0.0
 // @author       You
 // @match        *://*/*
 // @run-at       document-start
@@ -9,6 +8,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
+// @namespace    https://github.com/zedca/PublicScript/
+// @downloadURL  https://github.com/zedca/PublicScript/raw/main/replace-title-icon.user.js
+// @updateURL    https://github.com/zedca/PublicScript/raw/main/replace-title-icon.user.js
 // ==/UserScript==
 
 (function () {
