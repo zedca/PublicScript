@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Web Image Manager
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  稳定版图片/视频/SVG控制（适配React/SPA/懒加载）
+// @version      1.0.1
+// @description  稳定版图片/视频/SVG控制
 // @author       cg
 // @match        *://*/*
 // @grant        GM_getValue
